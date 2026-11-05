@@ -1,0 +1,6 @@
+[submodule "planificador_estudios_backend"]
+	path = planificador_estudios_backend
+	url = https://github.com/CristianOspina03/planificador_estudios_backend.git
+[submodule "planificador-estudios-frontend"]
+	path = planificador-estudios-frontend
+	url = https://github.com/Sepul11/planificador-estudios-frontend.git
